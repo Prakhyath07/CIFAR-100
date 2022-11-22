@@ -134,3 +134,4 @@ prediction_artifact
 color_img.jpg
 file.jpg
 model/
+cifar_efficientnetb0_weights.h5
